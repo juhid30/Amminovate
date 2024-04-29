@@ -19,15 +19,7 @@
   "uid":"201",
   "year":"FE"
 }
-{
-  "role":"student",
-  "name":"Jash Rashne",
-  "email":"jash1234@gmail.com",
-  "password":"1234567890",
-  "gender":"Male",
-  "uid":"201",
-  "year":"FE"
-}
+
 {
   "role":"student",
   "name":"Kavya Chetwani",
